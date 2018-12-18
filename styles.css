@@ -1,0 +1,57 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: gray;
+  font-family: tahoma;
+  font-size:400%;
+}
+
+h2 {
+  color: black;
+  font-family: tahoma;
+  font-size:200%;
+  border: .5px solid black;
+  padding: 5px;
+}
+
+p {
+  color: black;
+  font-family: verada;
+  font-size: 105%;
+}
+
+p.diff {
+	color: blue;
+	font-size: 75%;
+}
+
+#p01 {
+	color: black;
+	font-size: 150%;
+}
+
+a:link {
+  color: black; 
+  background-color: transparent; 
+  text-decoration: underline;
+}
+
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
